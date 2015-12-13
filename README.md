@@ -1,2 +1,2 @@
 # Geometric Calculation of PI Using Inscribed Polygons
-![alt tag](https://github.com/connor-occhialini/fin1/blob/master/pi-poly-u.pdf)
+![Alt text](http://github.com/connor-occhialini/fin1/pi-poly-u.pdf "Optional title")
